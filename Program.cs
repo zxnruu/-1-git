@@ -10,3 +10,4 @@ namespace Lab1
         }
     }
 }
+// Additional features for beta
