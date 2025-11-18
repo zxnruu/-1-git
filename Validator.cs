@@ -12,3 +12,8 @@ namespace Lab1
 }
 
 
+    // TODO: add more validation rules in future
+    public bool ValidateEmail(string email)
+    {
+        return true; // TODO: implement email validation
+    }
